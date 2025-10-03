@@ -1,0 +1,4 @@
+green
+fastapi[standard]
+yfinance
+httpx
